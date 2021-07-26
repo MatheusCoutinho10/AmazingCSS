@@ -1,0 +1,135 @@
+header{
+	width: auto;
+	background-image: linear-gradient(to bottom, lightyellow, orange);
+	color: #000;
+	font-family: Ninja Naruto;
+	font-weight: 800;
+	font-size: 2em;
+	text-align: center;
+	padding: 5px 0 5px 0;
+	text-shadow: 2px 2px #FFF;
+}
+
+h1{
+	margin-left: 3em;
+}
+
+nav{
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: Ninja Naruto;
+	margin-left: 15px;
+}
+
+a:hover{
+	color: yellow;
+}
+
+a:active{
+    color: orange;
+}
+
+.imgtopo{​​
+	height: 14em;
+    width: 14em;
+    z-index: 2;
+    position: absolute;
+    margin-left:4%;
+    float: left;
+}​​
+
+.principal{
+    width: 100%;
+    height: auto;
+}
+
+.box7{
+    width: 21em;
+    height: 54em;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.box8{
+    width: 21em;
+    height: 44em;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.box9{
+    width: 21em;
+    height: 44em;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.box10{
+    width: 21em;
+    height: 47em;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.imgbox{
+    width: 250px;
+    height: 250px;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+footer{
+    display: block;
+    float: left;
+    width: 98.5%;
+    height: auto;
+    background-color: black;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+h2{
+    text-align: center;
+    font-family: Cream Cake;
+    font-size: 60px;
+}
+
+p{
+    font-family: Arial;
+}
