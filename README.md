@@ -7,9 +7,9 @@ https://matheuscoutinho10.github.io/AmazingCSS/
 
 Amazing CSS é uma aplicação construída como trabalho de Programação Web I, do 1º semestre do Curso Técnico de Desenvolvimento de Sistemas, curso da [ETEC de Embu](https://www.etecdeembu.com.br/ "Site da ETEC de Embu").
 
-O site "Os Times de Konoha", mostra os quatro principais times da história do anime "Naruto", sendo os times 7, 8, 9 e 10. Um time no seu devido link, onde cada time é composto por um sensei (professor) e seus três alunos, um em cada Card, com sua imagem e uma breve descrição sobre cada um.
+O site "Os Times de Konoha", mostra os quatro principais times da história do anime "Naruto", sendo os times 7, 8, 9 e 10. Cada time no seu devido link, onde cada um é composto por um sensei (professor) e seus três alunos, sendo um Card para cada personagem, com sua imagem e uma breve sobre cada ele.
 
-O site conta com um logo lindo, e com fontes muito bem selecionadas. Além disso ele é 100% responsivo, ou seja, ele se adapta ao tamanho da tela em que for acessado, tanto web como mobile!
+O site conta com um logo lindo, e com fontes muito bem selecionadas. Além disso ele é 100% responsivo, ou seja, ele se adapta ao tamanho de qualquer tela que acessa-lo, tanto web como mobile!
 
 ## Layout
 ### Index
@@ -44,10 +44,10 @@ O site conta com um logo lindo, e com fontes muito bem selecionadas. Além disso
 # clonar repositório
 git clone https://github.com/MatheusCoutinho10/AmazingCSS
 
-# entrar na pasta do executável
+# entrar na pasta do repositório
 cd AmazingCSS
 
-# executar o projeto
+# abrir o site
 start index.html
 ```
 
