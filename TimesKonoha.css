@@ -133,3 +133,13 @@ h2{
 p{
     font-family: Arial;
 }
+
+@font-face {
+	font-family: Ninja Naruto;
+	src: url(./Fontes/Ninja\ Naruto.ttf)
+}
+
+@font-face {
+	font-family: Cream Cake;
+	src: url(./Fontes/Cream\ Cake.ttf)
+}
